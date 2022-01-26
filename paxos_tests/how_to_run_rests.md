@@ -1,1 +1,1 @@
-In order to run the tests, you need to have them all be in the same directory. Then you must run the command "killall -9 beam.smp & iex test_script.exs > results.txt 2>&1" in order to run the tests and output the test results in a txt file.
+In order to run the tests, you need to have them all be in the same directory. Then you must run the command `killall -9 beam.smp & iex test_script.exs > results.txt 2>&1` in order to run the tests and output the test results in a txt file.
